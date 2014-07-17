@@ -1,6 +1,0 @@
-[submodule "node_modules/tuna-events"]
-	path = node_modules/tuna-events
-	url = git@github.com:LiveTex/Tuna-Events.git
-[submodule "node_modules/tuna-util"]
-	path = node_modules/tuna-util
-	url = git@github.com:LiveTex/Tuna-Util.git
